@@ -1,0 +1,24 @@
+2024-07-13 19:47:40.900481Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:49:56.810370Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:49:59.970109Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:54:45.298646Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:54:56.926271Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:58:56.907976Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 19:59:01.141715Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
+2024-07-13 20:01:38.434630Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORIA" not found (this database is empty); SQL statement:
+select c1_0.codigo,c1_0.nome from categoria c1_0 [42104-224]
